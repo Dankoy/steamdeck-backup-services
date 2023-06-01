@@ -1,3 +1,7 @@
+# Archived 
+
+Moved to [steamdeck-helpers](https://github.com/Dankoy/steamdeck-helpers)
+
 # steamdeck-backup-services
 Contains backup services for retroarch in steamdeck or other linux os
 
